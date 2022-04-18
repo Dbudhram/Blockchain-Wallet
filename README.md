@@ -106,6 +106,35 @@ Now it's time to put it all together and test the Fintech Finder application wit
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
 ---
+### Application Testing
+
+This is the application prior to making the transaction with preset conditions for Ash.
+
+![4](Images/Streamlit Preset - Ash)
+
+Ganache prior to sending funds.
+
+![2](Ganache Preset.JPG)
+
+Transaction Hash from the application after sending the transaction.
+
+![5](Images/Streamlit - Validated Hash.JPG)
+
+This is showing Ganache log of the transaction.
+
+![6](Images/log.JPG)
+
+Below is showing the Ganache history of the transaction.
+
+![2](Images/Ganache History.JPG)
+
+Account Balance after Submission.
+
+![1](Images/Account Balance.JPG)
+
+Account Transaction after Submission.
+
+![1](Images/Ganache Transaction.JPG)
 
 ## Submission
 
